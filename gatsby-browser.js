@@ -1,6 +1,6 @@
 'use strict';
 
-var _createBrowserHistory = require('history/createBrowserHistory');
+var _createBrowserHistory = require("history").createBrowserHistory;
 
 var _createBrowserHistory2 = _interopRequireDefault(_createBrowserHistory);
 
